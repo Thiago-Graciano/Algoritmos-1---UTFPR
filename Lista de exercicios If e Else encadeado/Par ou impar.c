@@ -8,12 +8,12 @@ int main() {
     scanf("%i", &numero);
 
     if (numero == 0){
-        printf("O numero informado é zero");
+        printf("O numero informado Ã© zero");
     }
     else if (numero % 2 == 1) {
-        printf("O numero informado é impar");
+        printf("O numero informado Ã© impar");
     } else if (numero % 2 == 0) {
-        printf("O numero informado é par");
+        printf("O numero informado Ã© par");
     }
 
 }
